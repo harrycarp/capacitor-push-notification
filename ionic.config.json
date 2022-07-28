@@ -1,0 +1,7 @@
+{
+  "name": "push-notification-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
